@@ -1,0 +1,2 @@
+signature,count,example_file
+exit_code:1 (no sanitizer text captured),6,"id:000000,sig:06,src:000001,time:3291,execs:709,op:havoc,rep:2"

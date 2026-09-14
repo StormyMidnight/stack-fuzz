@@ -1,0 +1,4 @@
+run,run_time,total_execs,execs_per_sec,corpus_paths,afl_unique_crashes,afl_unique_hangs,time_to_first_crash,replayed_crash_files,distinct_signatures
+mystack,0h15m02s,145804,161.64,59,0,0,n/a (no crashes),0,0
+stlstack,0h15m01s,42656,47.30,48,11,0,0h14m35s,11,5
+mystack_buggy,0h15m01s,108647,120.55,52,6,0,0h00m15s,6,1
