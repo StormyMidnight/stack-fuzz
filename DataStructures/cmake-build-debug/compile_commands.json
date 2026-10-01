@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/marle/dev/DataStructures/cmake-build-debug",
+  "command": "C:\\Users\\marle\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\DataStructures.dir\\main.cpp.obj -c C:\\Users\\marle\\dev\\DataStructures\\main.cpp",
+  "file": "C:/Users/marle/dev/DataStructures/main.cpp",
+  "output": "C:/Users/marle/dev/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/main.cpp.obj"
+}
+]
